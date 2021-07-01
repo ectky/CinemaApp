@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        
+        <import type="com.elitsa.libraries.cinemaapp.ui.movie_detail.MovieDetailController"/>
+        <import type="com.elitsa.libraries.cinemaapp.ui.movie_detail.mvvm.MovieDetailViewModel"/>
+
+        <variable
+            name="controller"
+            type="MovieDetailController" />
+
+        <variable
+            name="viewModel"
+            type="MovieDetailViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.movie_detail.MovieDetailActivity">
+
+        <com.airbnb.epoxy.EpoxyRecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:attachEpoxyController="@{controller}"
+            />
+
+        <com.elitsa.libraries.cinemaapp.utils.views.MovieProgressView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            app:screenStateVisibility="@{viewModel.mutableScreenState}"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

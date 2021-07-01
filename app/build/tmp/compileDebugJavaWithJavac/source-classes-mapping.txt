@@ -1,0 +1,169 @@
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieDetailLocalRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieDetailLocalRepoFactory
+com/elitsa/libraries/cinemaapp/app/app_di/CinemaAppModule_ProvideAppFactory.java
+ com.elitsa.libraries.cinemaapp.app.app_di.CinemaAppModule_ProvideAppFactory
+com/elitsa/libraries/cinemaapp/app/di/RetrofitModule_ProvideMoshiFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RetrofitModule_ProvideMoshiFactory
+com/elitsa/libraries/cinemaapp/ui/movie_list/di/DaggerMovieListComponent.java
+ com.elitsa.libraries.cinemaapp.ui.movie_list.di.DaggerMovieListComponent
+ com.elitsa.libraries.cinemaapp.ui.movie_list.di.DaggerMovieListComponent$1
+ com.elitsa.libraries.cinemaapp.ui.movie_list.di.DaggerMovieListComponent$Builder
+ com.elitsa.libraries.cinemaapp.ui.movie_list.di.DaggerMovieListComponent$com_elitsa_libraries_cinemaapp_app_app_di_CinemaAppComponent_movieListRepository
+com/elitsa/libraries/cinemaapp/BuildConfig.java
+ com.elitsa.libraries.cinemaapp.BuildConfig
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieMiscBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieMiscBindingImpl
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieActorBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieActorBinding
+com/elitsa/libraries/cinemaapp/app/app_di/DaggerCinemaAppComponent.java
+ com.elitsa.libraries.cinemaapp.app.app_di.DaggerCinemaAppComponent
+ com.elitsa.libraries.cinemaapp.app.app_di.DaggerCinemaAppComponent$1
+ com.elitsa.libraries.cinemaapp.app.app_di.DaggerCinemaAppComponent$Builder
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieDescriptionBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieDescriptionBindingImpl
+com/elitsa/libraries/cinemaapp/ui/movie_detail/di/DaggerMovieDetailComponent.java
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.di.DaggerMovieDetailComponent
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.di.DaggerMovieDetailComponent$1
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.di.DaggerMovieDetailComponent$Builder
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.di.DaggerMovieDetailComponent$com_elitsa_libraries_cinemaapp_app_app_di_CinemaAppComponent_movieDetailRepository
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderGradientCardBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderGradientCardBinding
+com/elitsa/libraries/cinemaapp/databinding/ActivityMovieListBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMovieListBindingImpl
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieListLocalRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieListLocalRepoFactory
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderGradientCardBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderGradientCardBindingImpl
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieHeaderBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieHeaderBindingImpl
+com/elitsa/libraries/cinemaapp/MovieMiscBindingModel_.java
+ com.elitsa.libraries.cinemaapp.MovieMiscBindingModel_
+com/elitsa/libraries/cinemaapp/MovieActorBindingModel_.java
+ com.elitsa.libraries.cinemaapp.MovieActorBindingModel_
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieDetailRemoteRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieDetailRemoteRepoFactory
+com/elitsa/libraries/cinemaapp/db/CinemaAppDatabase_Impl.java
+ com.elitsa.libraries.cinemaapp.db.CinemaAppDatabase_Impl
+ com.elitsa.libraries.cinemaapp.db.CinemaAppDatabase_Impl$1
+com/elitsa/libraries/cinemaapp/MovieDescriptionBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.MovieDescriptionBindingModelBuilder
+com/elitsa/libraries/cinemaapp/MovieHeaderBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.MovieHeaderBindingModelBuilder
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieHeaderBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieHeaderBinding
+com/elitsa/libraries/cinemaapp/BR.java
+ com.elitsa.libraries.cinemaapp.BR
+com/elitsa/libraries/cinemaapp/MovieDescriptionBindingModel_.java
+ com.elitsa.libraries.cinemaapp.MovieDescriptionBindingModel_
+com/elitsa/libraries/cinemaapp/ui/movie_list/mvvm/MovieListViewModel_Factory.java
+ com.elitsa.libraries.cinemaapp.ui.movie_list.mvvm.MovieListViewModel_Factory
+com/elitsa/libraries/cinemaapp/app/app_di/CinemaAppModule_ProvideResourcesFactory.java
+ com.elitsa.libraries.cinemaapp.app.app_di.CinemaAppModule_ProvideResourcesFactory
+com/elitsa/libraries/cinemaapp/databinding/ActivityMovieDetailBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMovieDetailBindingImpl
+com/elitsa/libraries/cinemaapp/MovieCardBindingModel_.java
+ com.elitsa.libraries.cinemaapp.MovieCardBindingModel_
+com/elitsa/libraries/cinemaapp/app/di/ViewModelFactory_Factory.java
+ com.elitsa.libraries.cinemaapp.app.di.ViewModelFactory_Factory
+com/elitsa/libraries/cinemaapp/db/daos/MovieDao_Impl.java
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$1
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$2
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$3
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$4
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$5
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$6
+ com.elitsa.libraries.cinemaapp.db.daos.MovieDao_Impl$7
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieCardBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieCardBinding
+com/elitsa/libraries/cinemaapp/app/app_di/CinemaAppModule_ProvideApplicationContextFactory.java
+ com.elitsa.libraries.cinemaapp.app.app_di.CinemaAppModule_ProvideApplicationContextFactory
+com/elitsa/libraries/cinemaapp/MovieHeaderBindingModel_.java
+ com.elitsa.libraries.cinemaapp.MovieHeaderBindingModel_
+com/elitsa/libraries/cinemaapp/DataBindingTriggerClass.java
+ com.elitsa.libraries.cinemaapp.DataBindingTriggerClass
+com/elitsa/libraries/cinemaapp/app/app_di/CinemaAppModule_ProvideAssetsFactory.java
+ com.elitsa.libraries.cinemaapp.app.app_di.CinemaAppModule_ProvideAssetsFactory
+com/elitsa/libraries/cinemaapp/app/di/NetworkModule_ProvideCacheFileFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.NetworkModule_ProvideCacheFileFactory
+com/elitsa/libraries/cinemaapp/databinding/ActivityMainBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMainBinding
+com/elitsa/libraries/cinemaapp/app/di/RetrofitModule_ProvideRetrofitFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RetrofitModule_ProvideRetrofitFactory
+com/elitsa/libraries/cinemaapp/MovieActorBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.MovieActorBindingModelBuilder
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieCardBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieCardBindingImpl
+com/elitsa/libraries/cinemaapp/app/di/RetrofitModule_ProvideBaseUrlFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RetrofitModule_ProvideBaseUrlFactory
+com/elitsa/libraries/cinemaapp/ui/movie_detail/mvvm/MovieDetailViewModel_Factory.java
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.mvvm.MovieDetailViewModel_Factory
+com/elitsa/libraries/cinemaapp/databinding/CardFeaturedMovieBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.CardFeaturedMovieBindingImpl
+com/elitsa/libraries/cinemaapp/app/di/NetworkModule_ProvideOkHttpClientFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.NetworkModule_ProvideOkHttpClientFactory
+com/elitsa/libraries/cinemaapp/ui/movie_list/MovieListActivity_MembersInjector.java
+ com.elitsa.libraries.cinemaapp.ui.movie_list.MovieListActivity_MembersInjector
+com/elitsa/libraries/cinemaapp/DataBinderMapperImpl.java
+ com.elitsa.libraries.cinemaapp.DataBinderMapperImpl
+ com.elitsa.libraries.cinemaapp.DataBinderMapperImpl$InnerBrLookup
+ com.elitsa.libraries.cinemaapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/elitsa/libraries/cinemaapp/utils/package-info.java
+ com.elitsa.libraries.cinemaapp.utils.package-info
+com/elitsa/libraries/cinemaapp/app/app_di/CinemaAppModule_ProvideAppComponentFactory.java
+ com.elitsa.libraries.cinemaapp.app.app_di.CinemaAppModule_ProvideAppComponentFactory
+com/elitsa/libraries/cinemaapp/app/di/ApiModule_ProvideMovieListApiFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.ApiModule_ProvideMovieListApiFactory
+com/elitsa/libraries/cinemaapp/GradientCardBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.GradientCardBindingModelBuilder
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieDetailRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieDetailRepoFactory
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieDescriptionBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieDescriptionBinding
+com/airbnb/epoxy/databinding/BR.java
+ com.airbnb.epoxy.databinding.BR
+com/elitsa/libraries/cinemaapp/MovieMiscBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.MovieMiscBindingModelBuilder
+com/elitsa/libraries/cinemaapp/databinding/ActivityMovieListBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMovieListBinding
+com/elitsa/libraries/cinemaapp/databinding/CardFeaturedMovieBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.CardFeaturedMovieBinding
+com/elitsa/libraries/cinemaapp/databinding/ActivityMovieDetailBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMovieDetailBinding
+com/elitsa/libraries/cinemaapp/app/di/ApiModule_ProvideMoveiDetailApiFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.ApiModule_ProvideMoveiDetailApiFactory
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieListRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieListRepoFactory
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieActorBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieActorBindingImpl
+com/elitsa/libraries/cinemaapp/databinding/ViewHolderMovieMiscBinding.java
+ com.elitsa.libraries.cinemaapp.databinding.ViewHolderMovieMiscBinding
+com/elitsa/libraries/cinemaapp/GradientCardBindingModel_.java
+ com.elitsa.libraries.cinemaapp.GradientCardBindingModel_
+com/elitsa/libraries/cinemaapp/MovieCardBindingModelBuilder.java
+ com.elitsa.libraries.cinemaapp.MovieCardBindingModelBuilder
+com/elitsa/libraries/cinemaapp/ui/movie_detail/MovieDetailActivity_MembersInjector.java
+ com.elitsa.libraries.cinemaapp.ui.movie_detail.MovieDetailActivity_MembersInjector
+com/elitsa/libraries/cinemaapp/app/di/NetworkModule_ProvideInterceptorFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.NetworkModule_ProvideInterceptorFactory
+com/elitsa/libraries/cinemaapp/app/di/RepositoriesModule_MovieListRemoteRepoFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.RepositoriesModule_MovieListRemoteRepoFactory
+com/elitsa/libraries/cinemaapp/databinding/ActivityMainBindingImpl.java
+ com.elitsa.libraries.cinemaapp.databinding.ActivityMainBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/elitsa/libraries/cinemaapp/app/di/NetworkModule_ProvideCacheFactory.java
+ com.elitsa.libraries.cinemaapp.app.di.NetworkModule_ProvideCacheFactory
+com/elitsa/libraries/cinemaapp/db/daos/ActorDao_Impl.java
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$1
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$2
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$3
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$4
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$5
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$6
+ com.elitsa.libraries.cinemaapp.db.daos.ActorDao_Impl$7

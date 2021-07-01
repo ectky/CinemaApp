@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_progress_view.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\movie_progress_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\font_productsans.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\font\\productsans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_border.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\ic_favorite_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_movie_misc.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_misc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_list.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate_right_side.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\translate_right_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_movie_description.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_movie_header.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie_bg.jpg.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\movie_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_featured_movie.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\card_featured_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\font_productsans_bold.ttf.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\font\\productsans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_detail.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\font_productsans_italic.ttf.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\font\\productsans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_movie_card.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\font_productsans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\font\\productsans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_gradient_card.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_gradient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\font_productsans_regular.ttf.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\font\\productsans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_holder_movie_actor.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mylist_bg.jpg.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\drawable\\mylist_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate_left_side.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\anim\\translate_left_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]

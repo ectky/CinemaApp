@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_movie_misc.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_misc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_list.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_movie_actor.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_detail.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_movie_header.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_featured_movie.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\card_featured_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_gradient_card.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_gradient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_movie_card.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_holder_movie_description.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\view_holder_movie_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dicho\\Desktop\\Cinema\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

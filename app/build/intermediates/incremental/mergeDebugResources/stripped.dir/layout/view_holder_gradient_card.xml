@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+                                                                               
+                                                          
+                                                            
+                 
+                        
+                                  
+                 
+                                
+                                     
+
+           
+
+    <com.google.android.material.card.MaterialCardView
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="5dp"
+        android:layout_margin="12dp"
+                                   
+                                          
+         android:tag="layout/view_holder_gradient_card_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <ImageView
+                android:id="@+id/categoryIv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.3"
+                android:scaleType="centerCrop"
+                android:transitionName="@string/categoryImage"
+                android:tag="binding_1"        />
+
+            <TextView
+                android:id="@+id/categoryTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="start"
+                android:textSize="18sp"
+                android:padding="12dp"
+                android:transitionName="@string/categoryTitle"
+                android:tag="binding_2"      
+                android:textColor="@color/white"
+                android:fontFamily="@font/productsans_bold"
+                android:textAllCaps="true" />
+
+        </FrameLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+         

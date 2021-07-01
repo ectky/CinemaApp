@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                                                                            
+                                                          
+
+                 
+                            
+                               
+
+                 
+                                
+                                     
+
+           
+
+    <com.google.android.material.card.MaterialCardView
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="5dp"
+        app:contentPadding="0dp"
+        app:cardPreventCornerOverlap="true"
+        android:background="?attr/selectableItemBackground"
+                                          
+        android:layout_margin="12dp" android:tag="layout/view_holder_movie_card_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tag="binding_1"            
+            android:scaleType="fitXY"
+            />
+
+    </com.google.android.material.card.MaterialCardView>
+         
